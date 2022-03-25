@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaa5hh
+- 👋 Hi, I’m Kashish Parashar
 - 👀 I’m interested in software development projects
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on data structures related projects
